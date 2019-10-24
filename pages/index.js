@@ -22,7 +22,6 @@ const Home = () => (
     <Grid
       rows={['small']}
       columns={['auto', 'auto', 'auto']}
-      justifyContent='space'
       gap='medium'
       fill='horizontal'
     >
